@@ -5,6 +5,17 @@
 [Bb]uilds/
 Assets/AssetStoreTools*
 
+# Custom
+BlogItem/
+Packages/
+Logs/
+.vscode/
+
+Assets/unity-chan!/
+Assets/unity-chan!.meta
+Assets/Prefab/
+Assets/Prefab.meta
+
 # Visual Studio cache directory
 .vs/
 
